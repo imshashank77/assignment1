@@ -1,0 +1,96 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.header {
+    background-color: black;
+    height: 60px;
+}
+.logo h4 {
+color: white;
+padding-top: 20px;
+float: left;
+margin-left: 20px;
+}
+nav ul li {
+    float: right;
+    color: white;
+    list-style-type:none;
+    padding: 20px;
+}
+nav{
+    padding-right: 40px;
+}
+.shadow {
+    margin: 40px;
+}
+nav div {
+    display: inline;
+    padding-top: 10px;
+}
+section div{
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    float: left;
+    text-align: center;
+    
+}
+section h1 {
+    color: tomato;
+    text-shadow: 2px 2px rgb(161, 125, 125);
+    font-size: 40px;
+    padding-top: 60px;
+}
+section h4 {
+    color: cornflowerblue;
+    padding-top: 20px;
+}
+.button {
+    font-size: 40px;
+    height: 48px;
+    margin-left: 125px;
+    margin-top: 25px;
+    display: inline-block;
+    width: 150px;
+    background-color: crimson;
+    border-radius: 40px;
+}
+.button:hover{
+    background-color: lightgrey;
+    border: 2px black solid;
+}
+.img img{
+    height: 300px;
+    width: 500px;
+    
+}
+.img{
+    margin-left: 200px;
+    margin-top: 50px;
+    background-image: url(butterfly.jpg);
+    height: 400px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+.seen1 {
+    margin: 30px;
+}
+.content1 {
+    padding-left: 90px;
+    padding-top: 60px;
+    display: block;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+    margin-top: 40px;
+    height: 150px;
+
+}
+.foot span{
+    color: white;
+    margin: 0%;
+    font-size: 20px;
+    padding: top 20px;
+}
